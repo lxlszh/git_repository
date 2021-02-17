@@ -3,3 +3,7 @@ git add - add the fie to the git repository
 git commit - commit the file to the git repository
 git status - view the status of the git repository
 git diff - view the different of the git repository
+git log --pretty=oneline - check off the history of the work
+git reset --hard HEAD^ - return the previous version
+git reset --hard HEAD~100 - return the 100th previous version
+git reflog - check the command history
