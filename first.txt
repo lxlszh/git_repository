@@ -5,3 +5,6 @@ git forth
 git fifth
 git sixth
 git seventh
+git eighth
+git ninth
+git tenth
