@@ -1,0 +1,3 @@
+git init - initialize the git repository
+git add - add the fie to the git repository
+git commit - commit the file to the git repository
