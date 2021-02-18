@@ -6,5 +6,4 @@ hahahahahahah
 ooooo
 ooooo
 hahahahahah
-ooooo
-add and merge
+commit in the file
