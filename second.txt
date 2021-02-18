@@ -7,3 +7,5 @@ git log --pretty=oneline - check off the history of the work
 git reset --hard HEAD^ - return the previous version
 git reset --hard HEAD~100 - return the 100th previous version
 git reflog - check the command history
+git restore -- filename - discard the change in working space
+git reset HEAD filename - discard the change in stage
