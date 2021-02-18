@@ -11,3 +11,11 @@ git restore -- filename - discard the change in working space
 git reset HEAD filename - discard the change in stage
 git remote add origin git@github.com:lxlszh/git_repository - connect to the remote repository
 git push -u origin master - push the repository to the remote
+git branch -d branchname - delete branch
+git checkout -b branchname - create new branch and change current branch to the new branch
+git branch - view all branches
+git branch branch_name - create new branch
+git checkout branch_name - change to the branch
+git switch -c branchname - equal with git checkout -b branch_name
+git switch branch_name - equal withgit checkout branch_name
+git merge branch_name - merge the branch to current branch
