@@ -9,3 +9,5 @@ git reset --hard HEAD~100 - return the 100th previous version
 git reflog - check the command history
 git restore -- filename - discard the change in working space
 git reset HEAD filename - discard the change in stage
+git remote add origin git@github.com:lxlszh/git_repository - connect to the remote repository
+git push -u origin master - push the repository to the remote
